@@ -5,10 +5,10 @@ A command line utility that will create as many files as requested.
 
 Parameters
 - Number of files (int)
-- File format (text) - a .NET string format value
+- File name format (text) - a .NET string format value
 - Output path
 
-Example file formats:
+Example file name formats:
 - file{0}.txt
 - file_{0:0000}.bin
 
